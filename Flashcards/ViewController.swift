@@ -25,12 +25,6 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var frontLabel: UILabel!
     
-    @IBOutlet weak var Btn1: UIButton!
-
-    
-    @IBOutlet weak var Btn2: UIButton!
-    
-    @IBOutlet weak var Btn3: UIButton!
     
     
     @IBAction func didTapOnFlashcard(_ sender: Any) {
